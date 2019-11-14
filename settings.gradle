@@ -1,1 +1,1 @@
-include ':app', ':diff'
+include ':app', ':diff', ':patch'
